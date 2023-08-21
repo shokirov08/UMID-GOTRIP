@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'ISB';
+  src: url('../fonts/Inter-SemiBold.ttf');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'RSB';
+  src: url('../fonts/Rubik-SemiBold.ttf');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'RM';
+  src: url('../fonts/Rubik-Medium.ttf');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'RR';
+  src: url('../fonts/Rubik-Regular.ttf');
+  font-style: normal;
+  font-weight: 400;
+}
